@@ -15,3 +15,10 @@ ments.
 - Offer communication features for instructors to interact with students and provide support.
 - Provide a platform for learners to ask questions, receive feedback, and engage in discussions
 with instructors and peers.
+
+Technologies Used
+
+    Frontend: Vanila Javascipt, HTML, CSS 
+    Backend: PHP, MYSQL
+    UI Framework: Tailwind CSS
+ 
